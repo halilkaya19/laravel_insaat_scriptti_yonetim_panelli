@@ -1,8 +1,9 @@
-## lARAVEL İLE İNŞAAT SCRİPTTİ YÖNETİM PANELLİ
+## LARAVEL İLE İNŞAAT SCRİPTTİ YÖNETİM PANELLİ
 - laravel fortify Yönetim Paneli Giriş / Kayıt
-- 
+- Yönetim Panelinden tüm yönetilebilir site içeriği
+https://hizliresim.com/414g73q
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://hizliresim.com/414g73q" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
